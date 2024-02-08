@@ -19,13 +19,13 @@ The dataset used in this project is the [SMS Spam Collection Dataset](https://ww
 
 ## Installation
 To run the project locally, follow these steps:
-1. Clone this repository: git clone https://github.com/SSinchana66/SMS_Classifier.git
-2. Navigate to the project directory: cd SMS_Classifier
-3. Install the required dependencies:
+1. Clone or download this repository: git clone https://github.com/SSinchana66/SMS_Classifier.git
+2. Navigate to the project directory in your terminal or command prompt.
+3. Install the required dependencies by running:
    pip install jupyter numpy scikit-learn
+4. Once the dependencies are installed, you can open the project in Jupyter Notebook and run the code.
 
     
-
 ## Usage
 After installation, you can run the Jupyter notebook SMS Classifier.ipynb to see the code implementation and results. The notebook guides you through the entire process of data preprocessing, model training, and evaluation.
 
